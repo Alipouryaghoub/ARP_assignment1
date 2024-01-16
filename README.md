@@ -10,10 +10,7 @@ Group name: PS
 In the shell, initiate the program by running the run.sh script found in the main directory:
 
 
-    ```
-    
-    ./run.sh
-    
+    ```./run.sh
     ```
 
 ## How does it work
