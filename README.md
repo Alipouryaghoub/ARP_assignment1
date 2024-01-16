@@ -8,8 +8,12 @@ Group name: PS
 ## How to run
 ### Instructions to execute the program
 In the shell, initiate the program by running the run.sh script found in the main directory:
-    ```bash
+
+
+    ```bach
+    
     ./run.sh
+    
     ```
 
 ## How does it work
